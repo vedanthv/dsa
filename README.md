@@ -24,3 +24,14 @@ This is a repository of Data Structures and Algorithms problems for my reference
 |17|[Sum of Numbers Until 0](https://github.com/vedanthv/dsa/blob/main/Basics/Sumtill0.java)|Easy
 |18|[Switch and Enhanced Switch](https://github.com/vedanthv/dsa/blob/main/Basics/Switch.java)|Easy but **NEW**
 |19|[Type Casting](https://github.com/vedanthv/dsa/blob/main/Basics/TypeCasting.java)|Easy
+
+## Mathematics
+
+| Index | Problem | Difficulty|
+|:-------:|:---------:|:------:|
+|20|[Amstrong Number](https://github.com/vedanthv/dsa/blob/main/Basics/ArmstsrongNumberExample.java)|Easy
+|21|[Highest Common Factor Naive](https://github.com/vedanthv/dsa/blob/main/Math/HCF.java)|Easy
+|22|[Least Common Multiple Naive](https://github.com/vedanthv/dsa/blob/main/Math/LCM.java)|Easy
+|23|[Matrix Addition](https://github.com/vedanthv/dsa/blob/main/Math/MatrixAddition.java)|Easy
+|24|[Matrix Multiplication](https://github.com/vedanthv/dsa/blob/main/Math/MatrixMultiplication.java)|**Medium**
+|25|[Transpose of a Matrix](https://github.com/vedanthv/dsa/blob/main/Math/Transpose.java)|Easy
