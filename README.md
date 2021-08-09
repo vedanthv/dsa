@@ -48,3 +48,8 @@ This is a repository of Data Structures and Algorithms theory and problems!
 |4|[Changing Values of Compex Datatypes like Objects and References](https://github.com/vedanthv/dsa/blob/main/Functions/ChangeValue.java)|Easy but **Concept New**|
 |5|[Shadowing Concept in Java](https://github.com/vedanthv/dsa/blob/main/Functions/ChangeValue.java)|Easy but **Concept New**|
 |6|[Overloading](https://github.com/vedanthv/dsa/blob/main/Functions/Overloading.java)|Easy|
+|7|[Overloading](https://github.com/vedanthv/dsa/blob/main/Functions/Overloading.java)|Easy|
+|8|[Strings as Arguments](https://github.com/vedanthv/dsa/blob/main/Functions/StringExample.java)|Easy|
+|9|[Simple Sum Function in Java](https://github.com/vedanthv/dsa/blob/main/Functions/Sumfn.java)|Easy|
+|10|[Why Swapping in Java this way doesn't work?!](https://github.com/vedanthv/dsa/blob/main/Functions/Swap.java)|Medium|
+|11|[Variable Arguments](https://github.com/vedanthv/dsa/blob/main/Functions/VarArg.java)|Easy|
