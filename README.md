@@ -40,7 +40,7 @@ This is a repository of Data Structures and Algorithms theory and problems!
 |25|[Transpose of a Matrix](https://github.com/vedanthv/dsa/blob/main/Math/Transpose.java)|Easy
 
 ## Functions Theory
-**Important Concept : Working of Swapping Program Video**[Video Link](https://youtu.be/vvanI8NRlSI?t=1779)
+**Important Concept : Working of Swapping Program **[Video](https://youtu.be/vvanI8NRlSI?t=1779)
 | Index | Concept | Difficulty|
 |:-------:|:---------:|:------:|
 |1|[Greeting Message](https://github.com/vedanthv/dsa/blob/main/Functions/SimpleFn.java)|Easy|
