@@ -1,4 +1,4 @@
-# Data Structures and Algorithms Problems
+# Data Structures and Algorithms 
 
 This is a repository of Data Structures and Algorithms theory and problems!
 
