@@ -52,4 +52,4 @@ This is a repository of Data Structures and Algorithms theory and problems!
 |8|[Strings as Arguments](https://github.com/vedanthv/dsa/blob/main/Functions/StringExample.java)|Easy|
 |9|[Simple Sum Function in Java](https://github.com/vedanthv/dsa/blob/main/Functions/Sumfn.java)|Easy|
 |10|[Why Swapping in Java this way doesn't work?!](https://github.com/vedanthv/dsa/blob/main/Functions/Swap.java)|Medium|
-|11|[Variable Arguments](https://github.com/vedanthv/dsa/blob/main/Functions/VarArg.java)|Easy|
+|11|[Variable Arguments](https://github.com/vedanthv/dsa/blob/main/Functions/VarArgs.java)|Easy|
