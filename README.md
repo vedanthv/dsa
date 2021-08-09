@@ -38,3 +38,13 @@ This is a repository of Data Structures and Algorithms theory and problems!
 |23|[Matrix Addition](https://github.com/vedanthv/dsa/blob/main/Math/MatrixAddition.java)|Easy
 |24|[Matrix Multiplication](https://github.com/vedanthv/dsa/blob/main/Math/MatrixMultiplication.java)|**Medium**
 |25|[Transpose of a Matrix](https://github.com/vedanthv/dsa/blob/main/Math/Transpose.java)|Easy
+
+## Functions Theory
+| Index | Concept | Difficulty|
+|:-------:|:---------:|:------:|
+|1|[Greeting Message](https://github.com/vedanthv/dsa/blob/main/Functions/SimpleFn.java)|Easy|
+|2|[Simply Passing Values](https://github.com/vedanthv/dsa/blob/main/Functions/PassingExample.java)|Easy|
+|3|[Passing Values of Primitive Datatypes](https://github.com/vedanthv/dsa/blob/main/Functions/PassingExample.java)|Easy but **Concept New**|
+|4|[Changing Values of Compex Datatypes like Objects and References](https://github.com/vedanthv/dsa/blob/main/Functions/ChangeValue.java)|Easy but **Concept New**|
+|5|[Shadowing Concept in Java](https://github.com/vedanthv/dsa/blob/main/Functions/ChangeValue.java)|Easy but **Concept New**|
+|6|[Overloading](https://github.com/vedanthv/dsa/blob/main/Functions/Overloading.java)|Easy|
