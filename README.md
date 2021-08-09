@@ -5,6 +5,7 @@ This is a repository of Data Structures and Algorithms theory and problems!
 ## Basic Problems
 | Index | Problem | Difficulty|
 |:-------:|:---------:|:------:|
+|0|[Area, Volume and perimeter Questions](https://github.com/vedanthv/dsa/blob/main/Basics/AreaVolumePerimeter.java)|Easy
 |1|[Amstrong Number](https://github.com/vedanthv/dsa/blob/main/Basics/ArmstsrongNumberExample.java)|Easy
 |2|[Automatic Type Cast](https://github.com/vedanthv/dsa/blob/main/Basics/AutomaticTypeCasting.java)|Easy
 |3|[Case Checking](https://github.com/vedanthv/dsa/blob/main/Basics/CaseCheck.java)|Easy
@@ -24,6 +25,8 @@ This is a repository of Data Structures and Algorithms theory and problems!
 |17|[Sum of Numbers Until 0](https://github.com/vedanthv/dsa/blob/main/Basics/Sumtill0.java)|Easy
 |18|[Switch and Enhanced Switch](https://github.com/vedanthv/dsa/blob/main/Basics/Switch.java)|Easy but **NEW**
 |19|[Type Casting](https://github.com/vedanthv/dsa/blob/main/Basics/TypeCasting.java)|Easy
+|1|[Area, Volume and perimeter Questions](https://github.com/vedanthv/dsa/blob/main/Basics/ArmstsrongNumberExample.java)|Easy
+
 
 ## Mathematics
 
