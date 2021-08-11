@@ -61,5 +61,13 @@ This is a repository of Data Structures and Algorithms theory and problems!
 ## Problems on Arrays
 | Index | Problem | Difficulty| Solution|
 |:-------:|:---------:|:------:|:------:|
-|1|[Variable Arguments](https://github.com/vedanthv/dsa/blob/main/Functions/VarArg.java)|Easy|
+|1|[Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/)|Easy|[Link](https://github.com/vedanthv/dsa/blob/main/Arrays_Leetcode/src/com/vedanth/q1920.java)
+|2|[Array Concatenation](https://leetcode.com/problems/concatenation-of-array/)|Easy|[Link](https://github.com/vedanthv/dsa/blob/main/Arrays_Leetcode/src/com/vedanth/q1929.java)
+|3|[Running Sum of 1D Array](https://leetcode.com/problems/running-sum-of-1d-array/)|Easy|[Link](https://github.com/vedanthv/dsa/blob/main/Arrays_Leetcode/src/com/vedanth/q1480.java)
+|4|[Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/)|Easy|[Link](https://github.com/vedanthv/dsa/blob/main/Arrays_Leetcode/src/com/vedanth/q1672.java)
+|5|[Shuffle Array](https://leetcode.com/problems/shuffle-the-array/)|Easy|[Link](https://github.com/vedanthv/dsa/blob/main/Arrays_Leetcode/src/com/vedanth/q1470.java)
+|6|[Kids With Greatest Numer of Candles](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)|Easy|[Link](https://github.com/vedanthv/dsa/blob/main/Arrays_Leetcode/src/com/vedanth/q1431.java)
+|7|[Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)|Easy|[Link](https://github.com/vedanthv/dsa/blob/main/Arrays_Leetcode/src/com/vedanth/q1512.java)
+|8|[Transpose Matrix](https://leetcode.com/problems/transpose-matrix/)|Easy|[Link](https://github.com/vedanthv/dsa/blob/main/Arrays_Leetcode/src/com/vedanth/q867.java)
+|9|[Find numbers with even number of digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/)|Easy|[Link](https://github.com/vedanthv/dsa/blob/main/Arrays_Leetcode/src/com/vedanth/q1295.java)
 
