@@ -54,3 +54,12 @@ This is a repository of Data Structures and Algorithms theory and problems!
 |9|[Simple Sum Function in Java](https://github.com/vedanthv/dsa/blob/main/Functions/Sumfn.java)|Easy|
 |10|[Why Swapping in Java this way doesn't work?!](https://github.com/vedanthv/dsa/blob/main/Functions/Swap.java)|Medium|
 |11|[Variable Arguments](https://github.com/vedanthv/dsa/blob/main/Functions/VarArgs.java)|Easy|
+
+[**Video Tutorial**](https://www.youtube.com/watch?v=n60Dn0UsbEk)<br>
+[**Github repo with the code from the tutorial**](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java/tree/main/lectures/8-arrays/code/src/com/kunal)
+
+## Problems on Arrays
+| Index | Problem | Difficulty| Solution|
+|:-------:|:---------:|:------:|:------:|
+|1|[Variable Arguments](https://github.com/vedanthv/dsa/blob/main/Functions/VarArg.java)|Easy|
+
