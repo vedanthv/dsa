@@ -70,4 +70,4 @@ This is a repository of Data Structures and Algorithms theory and problems!
 |7|[Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)|Easy|[Link](https://github.com/vedanthv/dsa/blob/main/Arrays_Leetcode/src/com/vedanth/q1512.java)
 |8|[Transpose Matrix](https://leetcode.com/problems/transpose-matrix/)|Easy|[Link](https://github.com/vedanthv/dsa/blob/main/Arrays_Leetcode/src/com/vedanth/q867.java)
 |9|[Find numbers with even number of digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/)|Easy|[Link](https://github.com/vedanthv/dsa/blob/main/Arrays_Leetcode/src/com/vedanth/q1295.java)
-|10|[Find numbers with odd number of digits](https://binarysearch.com/problems/Odd-Number-of-Digits)|Easy|[Link](https://github.com/vedanthv/dsa/blob/main/Arrays_Leetcode/src/com/vedanth/odd_digit.java)
+|10|[Find numbers with odd number of digits](https://binarysearch.com/problems/Odd-Number-of-Digits)|Easy|[Link](https://github.com/vedanthv/dsa/blob/main/Arrays_Leetcode/src/com/vedanth/OddDigit.java)
