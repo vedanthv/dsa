@@ -54,6 +54,7 @@ This is a repository of Data Structures and Algorithms theory and problems!
 |9|[Why Swapping in Java this way doesn't work?!](https://github.com/vedanthv/dsa/blob/main/Functions/Swap.java)|Medium|
 |10|[Variable Arguments](https://github.com/vedanthv/dsa/blob/main/Functions/VarArgs.java)|Easy|
 
+## Array and ArrayList Concepts
 [**Video Tutorial**](https://www.youtube.com/watch?v=n60Dn0UsbEk)<br>
 [**Github repo with the code from the tutorial**](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java/tree/main/lectures/8-arrays/code/src/com/kunal)
 
