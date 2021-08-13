@@ -73,3 +73,10 @@ This is a repository of Data Structures and Algorithms theory and problems!
 |10|[Find numbers with odd number of digits](https://binarysearch.com/problems/Odd-Number-of-Digits)|Easy|[Link](https://github.com/vedanthv/dsa/blob/main/Arrays_Leetcode/src/com/vedanth/OddDigits.java)
 |11|[How many Numbers are Smaller than the current number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)|Easy|[Link](https://github.com/vedanthv/dsa/blob/main/Arrays_Leetcode/src/com/vedanth/q1365.java)
 |12|[Check if Sentence is a Panagram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/)|Easy|[Link](https://github.com/vedanthv/dsa/blob/main/Arrays_Leetcode/src/com/vedanth/Pangram.java)
+
+## Linear Search
+
+**Concept Video** : [Link](https://www.youtube.com/watch?v=_HRA37X8N_Q)
+
+**Comm. Classroom Github** : [Link](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java/tree/main/lectures/9-linear%20search)
+
