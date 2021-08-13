@@ -83,5 +83,4 @@ This is a repository of Data Structures and Algorithms theory and problems!
 | Index | Problem | Difficulty| Solution|
 |:-------:|:---------:|:------:|:------:|
 |1|[Search in Strings](https://youtu.be/_HRA37X8N_Q?t=1552)|Easy|[Link](https://github.com/vedanthv/dsa/tree/main/LinearSearch/src/com/vedanth/SearchString.java)
-
-|2|[SearchInRange](https://youtu.be/_HRA37X8N_Q?t=1830)|Easy|[Link](https://github.com/vedanthv/dsa/tree/main/LinearSearch/src/com/vedanth/SearchInRange.java)
+|2|[Search In Range](https://youtu.be/_HRA37X8N_Q?t=1830)|Easy|[Link](https://github.com/vedanthv/dsa/tree/main/LinearSearch/src/com/vedanth/SearchInRange.java)
