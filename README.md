@@ -84,3 +84,11 @@ This is a repository of Data Structures and Algorithms theory and problems!
 |:-------:|:---------:|:------:|:------:|
 |1|[Search in Strings](https://youtu.be/_HRA37X8N_Q?t=1552)|Easy|[Link](https://github.com/vedanthv/dsa/tree/main/LinearSearch/src/com/vedanth/SearchString.java)
 |2|[Search In Range](https://youtu.be/_HRA37X8N_Q?t=1830)|Easy|[Link](https://github.com/vedanthv/dsa/tree/main/LinearSearch/src/com/vedanth/SearchInRange.java)
+
+## Binary Search
+
+**Concept Video** : [Link](https://www.youtube.com/watch?v=f6UU7V3szVw&list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ&index=10)
+
+**Comm. Classroom Github** : [Link](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java/tree/main/lectures/10-binary%20search)
+
+
