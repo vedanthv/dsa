@@ -91,4 +91,9 @@ This is a repository of Data Structures and Algorithms theory and problems!
 
 **Comm. Classroom Github** : [Link](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java/tree/main/lectures/10-binary%20search)
 
+| Index | Problem | Difficulty| Solution|
+|:-------:|:---------:|:------:|:------:|
+|1|Binary Search Algorithm|Easy|[Link](https://github.com/vedanthv/dsa/blob/main/BinarySearch/src/com/vedanth/BinarySearch.java)
+|2|Agnostic Binary Search Algorithm|Easy|[Link](https://github.com/vedanthv/dsa/blob/main/BinarySearch/src/com/vedanth/OrderAgnosticBS.java)
+
 
