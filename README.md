@@ -73,6 +73,9 @@ This is a repository of Data Structures and Algorithms theory and problems!
 |10|[Find numbers with odd number of digits](https://binarysearch.com/problems/Odd-Number-of-Digits)|Easy|[Link](https://github.com/vedanthv/dsa/blob/main/Arrays_Leetcode/src/com/vedanth/OddDigits.java)
 |11|[How many Numbers are Smaller than the current number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)|Easy|[Link](https://github.com/vedanthv/dsa/blob/main/Arrays_Leetcode/src/com/vedanth/q1365.java)
 |12|[Check if Sentence is a Panagram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/)|Easy|[Link](https://github.com/vedanthv/dsa/blob/main/Arrays_Leetcode/src/com/vedanth/Pangram.java)
+|13|[Count Items Matching A Rule](https://leetcode.com/problems/count-items-matching-a-rule/)|Easy|[Link](https://github.com/vedanthv/dsa/blob/main/Arrays_Leetcode/src/com/vedanth/countMatches.java)
+|14|[Flip and Invert Image](https://leetcode.com/problems/flipping-an-image/)|Easy|[Link](https://github.com/vedanthv/dsa/blob/main/Arrays_Leetcode/src/com/vedanth/flipAndInvertImage.java)
+|14|[Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/)|Easy|[Link](https://github.com/vedanthv/dsa/blob/main/Arrays_Leetcode/src/com/vedanth/highestAltitude.java)
 
 ## Linear Search
 
