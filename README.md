@@ -77,7 +77,7 @@ This is a repository of Data Structures and Algorithms theory and problems!
 |14|[Flip and Invert Image](https://leetcode.com/problems/flipping-an-image/)|Easy|[Link](https://github.com/vedanthv/dsa/blob/main/Arrays_Leetcode/src/com/vedanth/flipAndInvertImage.java)
 |15|[Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/)|Easy|[Link](https://github.com/vedanthv/dsa/blob/main/Arrays_Leetcode/src/com/vedanth/highestAltitude.java)
 |16|[Cells With Odd Values in Matrix](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/)|Medium|[Link](https://github.com/vedanthv/dsa/blob/main/Arrays_Leetcode/src/com/vedanth/oddCells.java)
-
+|17|[Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/)|Easy|[Link](https://github.com/vedanthv/dsa/blob/main/Arrays_Leetcode/src/com/vedanth/diagonalSum.java)
 ## Linear Search
 
 **Concept Video** : [Link](https://www.youtube.com/watch?v=_HRA37X8N_Q)
