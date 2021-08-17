@@ -99,5 +99,7 @@ This is a repository of Data Structures and Algorithms theory and problems!
 |:-------:|:---------:|:------:|:------:|
 |1|Binary Search Algorithm|Easy|[Link](https://github.com/vedanthv/dsa/blob/main/BinarySearch/src/com/vedanth/BinarySearch.java)
 |2|Agnostic Binary Search Algorithm|Easy|[Link](https://github.com/vedanthv/dsa/blob/main/BinarySearch/src/com/vedanth/OrderAgnosticBS.java)
+|3|Ceiling of an element in the array|Easy|[Link](https://github.com/vedanthv/dsa/blob/main/BinarySearch/src/com/vedanth/Ceiling.java)
+|4|Floor of an element in the array|Easy|[Link](https://github.com/vedanthv/dsa/blob/main/BinarySearch/src/com/vedanth/Floor.java)
 
 
