@@ -101,5 +101,8 @@ This is a repository of Data Structures and Algorithms theory and problems!
 |2|Agnostic Binary Search Algorithm|Easy|[Link](https://github.com/vedanthv/dsa/blob/main/BinarySearch/src/com/vedanth/OrderAgnosticBS.java)
 |3|Ceiling of an element in the array|Easy|[Link](https://github.com/vedanthv/dsa/blob/main/BinarySearch/src/com/vedanth/Ceiling.java)
 |4|Floor of an element in the array|Easy|[Link](https://github.com/vedanthv/dsa/blob/main/BinarySearch/src/com/vedanth/Floor.java)
-
-
+|5|<a href = "">Smallest Letter</a>|Easy|[Link](https://github.com/vedanthv/dsa/blob/main/BinarySearch/src/com/vedanth/smallestLetter.java)
+|6|First and Last Element of Sorted Array|Medium|[Link](https://github.com/vedanthv/dsa/blob/main/BinarySearch/src/com/vedanth/Floor.java)
+|7|Postion of Element in Infinite Sorted Array|Medium|[Link](https://github.com/vedanthv/dsa/blob/main/BinarySearch/src/com/vedanth/Floor.java)
+|8|Peak Index In Mountain Array|Medium|[Link](https://github.com/vedanthv/dsa/blob/main/BinarySearch/src/com/vedanth/Floor.java)
+|9|Find in Mountain Array|Medium|[Link](https://github.com/vedanthv/dsa/blob/main/BinarySearch/src/com/vedanth/Floor.java)
